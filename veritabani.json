@@ -1,0 +1,24 @@
+{
+  "sorular": [
+    {
+      "soru": "merhaba",
+      "cevap": "sanada selam"
+    },
+    {
+      "soru": "Nas\u0131ls\u0131n",
+      "cevap": "\u0130yiyim, sen?"
+    },
+    {
+      "soru": "bende iyiyim",
+      "cevap": "\u0130yi olmana \u00e7ok sevindim!"
+    },
+    {
+      "soru": "bende senin iyi olmana sevindim",
+      "cevap": "Te\u015fekk\u00fcrler."
+    },
+    {
+      "soru": "\u015eule Altunta\u015f",
+      "cevap": "D\u00fcnyan\u0131n en g\u00fczel k\u0131z\u0131"
+    }
+  ]
+}
